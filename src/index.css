@@ -1,0 +1,27 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  background: #fafafa;
+  /* background: #BCB6D4; */
+  /*font-family: 'Muli', sans-serif;*/
+  /* font-family: "Courier New", Courier, monospace; */
+  /* font-family: 'Quicksand', sans-serif; */
+  font-family: 'Kumbh Sans', sans-serif;
+  width: 100%;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+ul,
+li {
+  margin: 0;
+  padding: 0;
+}
